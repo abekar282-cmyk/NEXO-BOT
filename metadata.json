@@ -1,0 +1,6 @@
+{
+  "name": "NEXO BROWSER",
+  "description": "Multi-profile anti-detect Android browser with isolated Chromium storage profiles, encrypted SOCKS5 authenticated proxy routing, bulk proxy import, and Chrome-style browsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
